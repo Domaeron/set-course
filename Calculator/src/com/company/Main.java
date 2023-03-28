@@ -51,7 +51,7 @@ public class Main extends JFrame implements ActionListener {
 
             Main() {
 
-        Font txtFont = new Font("Times New Roman", Font.BOLD, 20);
+        Font txtFont = new Font("Times New Roman", Font.BOLD, 25);
 
         Font titleFont = new Font("Times New Roman", Font.BOLD, 30);
 
